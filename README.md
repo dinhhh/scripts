@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/26584948/how-do-i-remove-my-intellij-license-in-2019-3
